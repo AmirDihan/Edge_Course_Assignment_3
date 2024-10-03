@@ -220,7 +220,7 @@
 .email-box{
     display: flex;
     flex-direction: column;
-    background: url(/Rectangle\ 9.png);
+    background: url(Rectangle\ 9.png);
     background-size: cover;
     background-repeat: no-repeat;
     margin: 10vh 10vw 10vh 10vw;
